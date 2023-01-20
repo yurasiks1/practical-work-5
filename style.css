@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+}
+
+article{
+    padding: 0 3% 3% 3%;
+}
+
+.caption-out{
+    padding: 0 1% 3% 3%;
+}
+
+.caption{
+    background-color: blue;
+}
+
+.zag-out{
+    width: 100%;
+    height: 20%;
+    position: relative;
+    padding-bottom: 7%;
+    
+}
+
+.zagolovok{
+    font-size: 10px;
+    text-align: center;
+    border: 2px solid black; 
+    position: relative;
+    width: 20%;
+    float: right;
+    background-color: yellow;
+}
